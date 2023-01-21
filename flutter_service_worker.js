@@ -4,9 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "3f339245e7f5e072438343acffb02c1c",
-"index.html": "15dc3141d62b16726ee4c4a0ab7632f0",
-"/": "15dc3141d62b16726ee4c4a0ab7632f0",
-"main.dart.js": "fbc3df717d837e0e19ba6a51f100de91",
+"index.html": "598766b2de9eb4e245fea711f85a8e27",
+"/": "598766b2de9eb4e245fea711f85a8e27",
+"main.dart.js": "e1a6a9349572eb9d7955066bd9cbbd7e",
 "flutter.js": "f85e6fb278b0fd20c349186fb46ae36d",
 "favicon.png": "37e118adc4acb3bad1df16ec4ddfeaab",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
@@ -24,6 +24,7 @@ const RESOURCES = {
 "assets/assets/googleplay.png": "1f12a6762bc48d9b8718238d2da2c41d",
 "assets/assets/yt.png": "d337e86234003f84a90624e9a34727c9",
 "assets/assets/as.png": "bb7264c4e22d66bcdbccd4a41dfb1a36",
+"assets/assets/jc.png": "d6ddf0d191b8d34f5cbf7bb0ab49ea4c",
 "assets/assets/gp.png": "8412cc2c8fb288c9c3cb9063e2e2aa11",
 "assets/assets/sg.png": "8b5f07feccb0ffe305ad95339f6a7cd9",
 "assets/assets/appstore.png": "77ca8b6daef7f3a2c81f8266a17cd96a",
