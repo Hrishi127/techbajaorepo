@@ -66781,7 +66781,7 @@ case 4:throw A.d("Could not launch https://apps.apple.com/in/app/java-compiler/i
 case 3:return A.Z(null,r)}})
 return A.a_($async$nO,r)},
 H(a){var s,r=null,q=t.p,p=A.af3(A.iC(A.a([A.aP(A.fk("assets/jc.png"),40,40),A.aP(r,r,8),A.bv("Java Compiler",r,r,A.c1(r,r,r,r,r,r,r,r,r,r,r,25,r,r,B.bi,r,r,!0,r,r,r,r,r,r,r,r),r,r)],q),B.A,B.ao,B.ci)),o=A.aP(r,8,r),n=B.d.aR(76.5)
-o=A.dR(A.a([p,o,A.bv("Version 6.1",r,r,A.c1(r,r,A.a9(n,255,255,255),r,r,r,r,r,r,r,r,10,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],q),B.A,B.ao,B.F)
+o=A.dR(A.a([p,o,A.bv("Version 2.1",r,r,A.c1(r,r,A.a9(n,255,255,255),r,r,r,r,r,r,r,r,10,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],q),B.A,B.ao,B.F)
 p=A.ma(8)
 n=A.a9(n,0,0,0)
 s=B.d.aR(178.5)
