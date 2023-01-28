@@ -20750,7 +20750,7 @@ CB:function CB(a){this.a=a},
 RL:function RL(a){this.a=null
 this.b=a
 this.c=null},
-ajP(){return new A.SH(A.atx(A.a([A.hJ(new A.SI(),"/"),A.hJ(new A.SJ(),"/appinfo"),A.hJ(new A.SK(),"/htmlcreator"),A.hJ(new A.SL(),"/javacompiler"),A.hJ(new A.SM(),"/pythoncompiler"),A.hJ(new A.SN(),"/savegram"),A.hJ(new A.SO(),"/savegrameula"),A.hJ(new A.SP(),"/savegrampp"),A.hJ(new A.SQ(),"/javacompilerpp"),A.hJ(new A.SR(),"/pythoncompilerpp"),A.hJ(new A.SS(),"/savegramtc")],t.yo)))},
+ajP(){return new A.SH(A.atx(A.a([A.hJ(new A.SI(),"/"),A.hJ(new A.SJ(),"/appsinfo"),A.hJ(new A.SK(),"/htmlcreator"),A.hJ(new A.SL(),"/javacompiler"),A.hJ(new A.SM(),"/pythoncompiler"),A.hJ(new A.SN(),"/savegram"),A.hJ(new A.SO(),"/savegrameula"),A.hJ(new A.SP(),"/savegrampp"),A.hJ(new A.SQ(),"/javacompilerpp"),A.hJ(new A.SR(),"/pythoncompilerpp"),A.hJ(new A.SS(),"/savegramtc")],t.yo)))},
 SH:function SH(a){this.a=a},
 SI:function SI(){},
 SJ:function SJ(){},
@@ -69009,7 +69009,7 @@ A.aaI.prototype={
 $0(){this.a.jp("https://www.instagram.com/hrishizofficial")},
 $S:0}
 A.aaJ.prototype={
-$0(){this.a.L(t.q0).x.j3("/appinfo")},
+$0(){this.a.L(t.q0).x.j3("/appsinfo")},
 $S:0}
 A.aaK.prototype={
 $0(){var s,r=this.a,q=A.qg(r,!0).c
