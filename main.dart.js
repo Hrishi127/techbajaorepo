@@ -69052,11 +69052,11 @@ return A.Z($async$$0,r)},
 $S:34}
 A.Cq.prototype={
 a9(){var s=t.s
-return new A.RG(A.a(["HTML Creator","Java Compiler","Python Compiler"],s),A.a(["6.1","2.1","1.5"],s),A.a(["hc.png","jc.png","pc.png"],s),A.a(["/htmlcreator","/javacompiler","/pythoncompiler"],s),B.k)}}
+return new A.RG(A.a(["HTML Creator","Java Compiler","Python Compiler","C Compiler"],s),A.a(["6.1","2.1","1.5","1.1"],s),A.a(["hc.png","jc.png","pc.png","cc.png"],s),A.a(["/htmlcreator","/javacompiler","/pythoncompiler","/ccompiler"],s),B.k)}}
 A.RG.prototype={
 I(a){var s=null,r=A.ao(s,30,s),q=A.hD(A.eG(15),A.bp(s,new A.bB(B.bb,A.aS("Apps Info",s,s,A.bf(s,s,A.a4(B.d.aI(127.5),255,255,255),s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),B.aM,s,s,s,s,s)),p=A.ao(s,20,s),o=!0
 o=o?B.ws:s
-return A.fJ(s,A.bp(s,A.cE(A.a([r,q,p,A.akF(new A.Gz(new A.a6n(new A.aez(this),3,!0,!0,!0,s),s,B.az,!1,s,s,o,!1,s,3,B.I,B.H0,s,B.ak,s),1)],t.p),B.r,B.an,B.v),B.ad,s,s,s,s,1/0))}}
+return A.fJ(s,A.bp(s,A.cE(A.a([r,q,p,A.akF(new A.Gz(new A.a6n(new A.aez(this),4,!0,!0,!0,s),s,B.az,!1,s,s,o,!1,s,4,B.I,B.H0,s,B.ak,s),1)],t.p),B.r,B.an,B.v),B.ad,s,s,s,s,1/0))}}
 A.aez.prototype={
 $2(a,b){var s=null,r=A.eG(10),q=this.a,p=A.jx(s,s,new A.bF(B.aM,t.Il),s,s,s,s,s,s,s,s,new A.bF(new A.aE(0,0,0,0),t.Ly),s,s,s,s,s,s,s,s)
 return new A.bB(B.AV,A.hD(r,A.pm(new A.Gx(A.ao(A.dl("assets/"+q.f[b]),45,45),A.aS(q.d[b],s,s,A.bf(s,s,B.i,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.aS("Version "+q.e[b],s,s,A.bf(s,s,A.a4(B.d.aI(127.5),255,255,255),s,s,s,s,s,s,s,s,8,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.aey(q,a,b),p)),s)},
