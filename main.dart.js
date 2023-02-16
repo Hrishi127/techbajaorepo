@@ -76402,10 +76402,10 @@ r=A.c9(10)
 q=A.W(j,0,0,0)
 p=A.an("Introducing\nExport File feature",n,n,n,A.aE(n,n,B.i,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.ac,n)
 o=B.d.af(178.5)
-q=A.en(r,A.aQ(n,new A.bf(B.aP,A.bH(A.a([p,A.an("Export File feature can be used to export and share projects.",n,n,n,A.aE(n,n,A.W(o,255,255,255),n,n,n,n,n,n,n,n,9,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.ac,n)],m),B.m,B.aE,B.p),n),q,n,n,140,n,n,200))
+q=A.en(r,A.aQ(n,new A.bf(B.aP,A.bH(A.a([p,A.an("Export File feature can be used to \nexport and share projects.",n,n,n,A.aE(n,n,A.W(o,255,255,255),n,n,n,n,n,n,n,n,9,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.ac,n)],m),B.m,B.aE,B.p),n),q,n,n,140,n,n,180))
 p=A.c9(10)
 j=A.W(j,0,0,0)
-return new A.ou(A.eU(n,A.aQ(n,A.bH(A.a([k,new A.wg(new A.XY(400,1.7777777777777777,0.5,0,!1,!1,!0,B.au,0.3),l,new A.XX(new A.aU(new A.a9(s,t.wC),t.Fe)),4,n),A.cT(A.a([q,A.en(p,A.aQ(n,new A.bf(B.aP,A.bH(A.a([A.an("Supported apps",n,n,n,A.aE(n,n,B.i,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.an("HTML Creator\nJava Compiler\nPython Compiler\nC Compiler",n,n,n,A.aE(n,n,A.W(o,255,255,255),n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.ac,n)],m),B.m,B.aE,B.p),n),j,n,n,140,n,n,200))],m),B.m,B.aE,B.p),A.a6(A.hH(A.an("Homepage",n,n,n,n,n,n),new A.alN(a),A.f7(n,n,new A.bB(B.a_,t.Il),n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n)),n,140)],m),B.m,B.aE,B.p),B.M,n,n,1/0,n,n,1/0),n),B.KH,B.o5,n,n,!0,n)}}
+return new A.ou(A.eU(n,A.aQ(n,A.bH(A.a([k,new A.wg(new A.XY(400,1.7777777777777777,0.5,0,!1,!1,!0,B.au,0.3),l,new A.XX(new A.aU(new A.a9(s,t.wC),t.Fe)),4,n),A.cT(A.a([q,A.en(p,A.aQ(n,new A.bf(B.aP,A.bH(A.a([A.an("Supported apps",n,n,n,A.aE(n,n,B.i,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.an("HTML Creator\nJava Compiler\nPython Compiler\nC Compiler",n,n,n,A.aE(n,n,A.W(o,255,255,255),n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.ac,n)],m),B.m,B.aE,B.p),n),j,n,n,140,n,n,180))],m),B.m,B.aE,B.p),A.a6(A.hH(A.an("Homepage",n,n,n,n,n,n),new A.alN(a),A.f7(n,n,new A.bB(B.a_,t.Il),n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n)),n,140)],m),B.m,B.aE,B.p),B.M,n,n,1/0,n,n,1/0),n),B.KH,B.o5,n,n,!0,n)}}
 A.alN.prototype={
 $0(){this.a.I(t.q0).x.jJ("/")},
 $S:0}
