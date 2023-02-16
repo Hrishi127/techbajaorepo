@@ -8492,16 +8492,15 @@ wf:function wf(a,b){this.a=a
 this.b=b},
 Gm:function Gm(a,b){this.a=a
 this.b=b},
-XY:function XY(a,b,c,d,e,f,g,h,i){var _=this
+XY:function XY(a,b,c,d,e,f,g,h){var _=this
 _.a=a
-_.b=b
-_.c=c
-_.d=d
-_.e=e
-_.r=f
-_.Q=g
-_.as=h
-_.dy=i},
+_.c=b
+_.d=c
+_.e=d
+_.r=e
+_.Q=f
+_.as=g
+_.dy=h},
 wg:function wg(a,b,c,d,e){var _=this
 _.c=a
 _.e=b
@@ -42346,7 +42345,7 @@ if(a0&&d){d=l.f
 if(d instanceof A.dw)d=d.dY(a1)}else d=s
 l=f.a
 g=l.d
-if(g==null)a0=a0?B.Fj:B.nl
+if(g==null)a0=a0?B.Fj:B.nm
 else a0=g
 return A.ml(A.es(B.aw,A.bI(!0,new A.f8(new A.aW(j,1/0,j,1/0),A.dh(!1,A.Hz(new A.bf(a0,new A.dv(l.z,1,1,A.eq(A.J8(l.c,new A.cx(r,e,e,e),e),e,e,B.ai,!0,p,e,e,B.U),e),e),new A.f6(d,e,e,h,e,e,B.bq),B.cw),i),e),!1,e,e,!1,!1,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e,e),B.K,!1,e,e,e,e,e,e,e,e,e,e,e,k,m,o,n,e,e,e),q,e,e,e)}}
 A.ag_.prototype={
@@ -74565,7 +74564,7 @@ s=r.f
 s===$&&A.b()
 s=A.a([A.a6(r.Y3(),p,s)],t.p)
 if(r.y){r.a.toString
-p=A.aQ(q,B.Er,q,q,q,30,B.nl,q,30)
+p=A.aQ(q,B.Er,q,q,q,30,B.nm,q,30)
 s.push(new A.dv(B.e6,q,q,p,q))}return A.i7(B.aZ,s,B.aV)},
 Y3(){return A.aoU(new A.r1(this.x,new A.ah9(this),null,t.yl),B.q)}}
 A.ahe.prototype={
@@ -76402,10 +76401,10 @@ r=A.c9(10)
 q=A.W(j,0,0,0)
 p=A.an("Introducing\nExport File feature",n,n,n,A.aE(n,n,B.i,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.ac,n)
 o=B.d.af(178.5)
-q=A.en(r,A.aQ(n,new A.bf(B.nm,A.bH(A.a([p,A.an("Export File feature can be used to \nexport and share the project.",n,n,n,A.aE(n,n,A.W(o,255,255,255),n,n,n,n,n,n,n,n,9,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.ac,n)],m),B.m,B.aE,B.p),n),q,n,n,110,n,n,180))
+q=A.en(r,A.aQ(n,new A.bf(B.nl,A.bH(A.a([p,A.an("Export File feature can be used to \nexport and share the project.",n,n,n,A.aE(n,n,A.W(o,255,255,255),n,n,n,n,n,n,n,n,9,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.ac,n)],m),B.m,B.aE,B.p),n),q,n,n,105,n,n,180))
 p=A.c9(10)
 j=A.W(j,0,0,0)
-return new A.ou(A.eU(n,A.aQ(n,A.bH(A.a([k,new A.wg(new A.XY(400,1.7777777777777777,0.5,0,!1,!1,!0,B.au,0.3),l,new A.XX(new A.aU(new A.a9(s,t.wC),t.Fe)),4,n),A.cT(A.a([q,A.en(p,A.aQ(n,new A.bf(B.nm,A.bH(A.a([A.an("Supported apps",n,n,n,A.aE(n,n,B.i,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.an("HTML Creator\nJava Compiler\nPython Compiler\nC Compiler",n,n,n,A.aE(n,n,A.W(o,255,255,255),n,n,n,n,n,n,n,n,9,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.ac,n)],m),B.m,B.aE,B.p),n),j,n,n,115,n,n,180))],m),B.m,B.aE,B.p),A.a6(A.hH(A.an("Homepage",n,n,n,n,n,n),new A.alN(a),A.f7(n,n,new A.bB(B.a_,t.Il),n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n)),n,140)],m),B.m,B.aE,B.p),B.M,n,n,1/0,n,n,1/0),n),B.KI,B.o6,n,n,!0,n)}}
+return new A.ou(A.eU(n,A.aQ(n,A.bH(A.a([k,new A.wg(new A.XY(350,0.45,0,!1,!1,!0,B.au,0.3),l,new A.XX(new A.aU(new A.a9(s,t.wC),t.Fe)),4,n),A.cT(A.a([q,A.en(p,A.aQ(n,new A.bf(B.nl,A.bH(A.a([A.an("Supported apps",n,n,n,A.aE(n,n,B.i,n,n,n,n,n,n,n,n,12,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),n,n),A.an("HTML Creator\nJava Compiler\nPython Compiler\nC Compiler",n,n,n,A.aE(n,n,A.W(o,255,255,255),n,n,n,n,n,n,n,n,9,n,n,n,n,n,!0,n,n,n,n,n,n,n,n),B.ac,n)],m),B.m,B.aE,B.p),n),j,n,n,105,n,n,180))],m),B.m,B.aE,B.p),A.a6(A.hH(A.an("Homepage",n,n,n,n,n,n),new A.alN(a),A.f7(n,n,new A.bB(B.a_,t.Il),n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n)),n,140)],m),B.m,B.aE,B.p),B.M,n,n,1/0,n,n,1/0),n),B.KI,B.o6,n,n,!0,n)}}
 A.alN.prototype={
 $0(){this.a.I(t.q0).x.jJ("/")},
 $S:0}
@@ -80342,9 +80341,9 @@ B.Ff=new A.aw(12,20,12,12)
 B.Fg=new A.aw(12,24,12,16)
 B.Fh=new A.aw(12,8,12,8)
 B.he=new A.aw(16,0,16,0)
-B.nl=new A.aw(16,16,16,16)
+B.nl=new A.aw(16,10,16,10)
+B.nm=new A.aw(16,16,16,16)
 B.Fi=new A.aw(16,4,16,4)
-B.nm=new A.aw(20,10,20,10)
 B.bg=new A.aw(20,20,20,20)
 B.hf=new A.aw(4,0,4,0)
 B.nn=new A.aw(4,4,4,4)
