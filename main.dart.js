@@ -76262,7 +76262,7 @@ $0(){this.a.J(t.q0).x.j6("/appsinfo")},
 $S:0}
 A.F4.prototype={
 Z(){var s=t.s
-return new A.VS(A.a(["HTML Creator","Java Compiler","Python Compiler","C Compiler","BackWalls"],s),A.a(["6.1","2.1","1.5","1.1","1.8"],s),A.a(["hc.png","jc.png","pc.png","cc.png","bw.png"],s),A.a(["/htmlcreator","/javacompiler","/pythoncompiler","/ccompiler","/backwalls"],s),B.j)}}
+return new A.VS(A.a(["HTML Creator","Java Compiler","Python Compiler","C Compiler","BackWalls"],s),A.a(["6.2","2.1","1.5","1.1","1.8"],s),A.a(["hc.png","jc.png","pc.png","cc.png","bw.png"],s),A.a(["/htmlcreator","/javacompiler","/pythoncompiler","/ccompiler","/backwalls"],s),B.j)}}
 A.VS.prototype={
 G(a){var s=null
 return A.dW(s,A.aM(s,A.bv(A.a([A.Z(s,30,s),A.e6(A.c5(15),A.aM(s,new A.be(B.bn,A.af("Apps Info",s,s,s,A.av(s,s,A.H(B.d.O(127.5),255,255,255),s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),B.V,s,s,s,s,s)),A.Z(s,20,s),A.IP(new A.pu(A.NP(B.V,s,s),A.auq(new A.alx(this),5),s),1)],t.p),B.l,B.a1,B.n),B.I,s,s,s,s,1/0),s)}}
@@ -76419,11 +76419,11 @@ case 4:throw A.c("Could not launch https://apps.apple.com/in/app/html-creator/id
 case 3:return A.N(null,r)}})
 return A.O($async$pB,r)},
 G(a){var s,r=null,q=t.p,p=A.lU(A.cD(A.a([A.Z(A.cr("assets/hc.png"),40,40),A.Z(r,r,8),A.af("HTML Creator",r,r,r,A.av(r,r,r,r,r,r,r,r,r,r,r,25,r,r,B.ak,r,r,!0,r,r,r,r,r,r,r,r),r,r)],q),B.l,B.v,B.aB)),o=A.Z(r,8,r),n=B.d.O(76.5)
-o=A.bv(A.a([p,o,A.af("Version 6.1",r,r,r,A.av(r,r,A.H(n,255,255,255),r,r,r,r,r,r,r,r,10,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],q),B.l,B.v,B.n)
+o=A.bv(A.a([p,o,A.af("Version 6.2",r,r,r,A.av(r,r,A.H(n,255,255,255),r,r,r,r,r,r,r,r,10,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r)],q),B.l,B.v,B.n)
 p=A.c5(8)
 n=A.H(n,0,0,0)
 s=B.d.O(178.5)
-return A.dW(r,A.aM(r,A.bv(A.a([o,A.e6(p,A.aM(r,new A.be(B.b0,A.bv(A.a([A.af("Run HTML programs in your device!",r,r,r,A.av(r,r,A.H(s,255,255,255),r,r,r,r,r,r,r,r,12,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.Z(r,20,r),A.af("Features-",r,r,r,A.av(r,r,B.i,r,r,r,r,r,r,r,r,12,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.Z(r,5,r),A.af("-Material UI\n-JavaScript Support\n-Line Numbers\n-Shortcuts\n-ShareCode\n-Undo/Redo\n-FastCode Layout\n-Color Coding\n",r,r,r,A.av(r,r,A.H(s,255,255,255),r,r,r,r,r,r,r,r,12,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.W,r),A.Z(r,20,r),A.af("Requirements-",r,r,r,A.av(r,r,B.i,r,r,r,r,r,r,r,r,12,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.Z(r,5,r),A.af(u.i,r,r,r,A.av(r,r,A.H(s,255,255,255),r,r,r,r,r,r,r,r,12,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.W,r)],q),B.l,B.v,B.n),r),n,r,r,r,r,r)),A.cD(A.a([A.dT(r,A.aM(r,A.Z(A.cr("assets/googleplay.png"),80,160),r,r,r,r,r,160),B.G,!1,r,r,r,r,r,r,r,r,r,r,r,this.ga2B(),r,r,r,r,r,r),A.Z(r,r,8),A.aM(r,A.dT(r,A.Z(A.cr("assets/appstore.png"),42,40),B.G,!1,r,r,r,r,r,r,r,r,r,r,r,this.ga2C(),r,r,r,r,r,r),r,r,r,r,r,160)],q),B.l,B.a1,B.n)],q),B.l,B.av,B.n),B.I,r,r,r,r,1/0),r)}}
+return A.dW(r,A.aM(r,A.bv(A.a([o,A.e6(p,A.aM(r,new A.be(B.b0,A.bv(A.a([A.af("Run HTML programs in your device!",r,r,r,A.av(r,r,A.H(s,255,255,255),r,r,r,r,r,r,r,r,12,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.Z(r,20,r),A.af("Features-",r,r,r,A.av(r,r,B.i,r,r,r,r,r,r,r,r,12,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.Z(r,5,r),A.af("-Material UI\n-CSS Support\n-JavaScript Support\n-Line Numbers\n-Shortcuts\n-ShareCode\n-FastCode Layout\n-Color Coding\n-Preview Tabs",r,r,r,A.av(r,r,A.H(s,255,255,255),r,r,r,r,r,r,r,r,12,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.W,r),A.Z(r,20,r),A.af("Requirements-",r,r,r,A.av(r,r,B.i,r,r,r,r,r,r,r,r,12,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),A.Z(r,5,r),A.af(u.i,r,r,r,A.av(r,r,A.H(s,255,255,255),r,r,r,r,r,r,r,r,12,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),B.W,r)],q),B.l,B.v,B.n),r),n,r,r,r,r,r)),A.cD(A.a([A.dT(r,A.aM(r,A.Z(A.cr("assets/googleplay.png"),80,160),r,r,r,r,r,160),B.G,!1,r,r,r,r,r,r,r,r,r,r,r,this.ga2B(),r,r,r,r,r,r),A.Z(r,r,8),A.aM(r,A.dT(r,A.Z(A.cr("assets/appstore.png"),42,40),B.G,!1,r,r,r,r,r,r,r,r,r,r,r,this.ga2C(),r,r,r,r,r,r),r,r,r,r,r,160)],q),B.l,B.a1,B.n)],q),B.l,B.av,B.n),B.I,r,r,r,r,1/0),r)}}
 A.Fk.prototype={
 Z(){return new A.EY(B.j)}}
 A.EY.prototype={
