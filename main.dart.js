@@ -81925,10 +81925,10 @@ $0(){this.a.K(t.q0).x.jN("/appsinfo")},
 $S:0}
 A.Gj.prototype={
 a0(){var s=t.s
-return new A.YK(A.a(["HTML Creator","Java Compiler","Python Compiler","C Compiler","BackWalls"],s),A.a(["6.2","2.2","1.6","1.4","1.8"],s),A.a(["hc.png","jc.png","pc.png","cc.png","bw.png"],s),A.a(["/htmlcreator","/javacompiler","/pythoncompiler","/ccompiler","/backwalls"],s),B.j)}}
+return new A.YK(A.a(["HTML Creator","Java Compiler","Python Compiler","C Compiler","C++ Compiler","BackWalls"],s),A.a(["6.2","2.2","1.6","1.4","1.0","1.8"],s),A.a(["hc.png","jc.png","pc.png","cc.png","cppc.png","bw.png"],s),A.a(["/htmlcreator","/javacompiler","/pythoncompiler","/ccompiler","/cppcompiler","/backwalls"],s),B.j)}}
 A.YK.prototype={
 G(a){var s=null
-return A.e4(s,A.aV(s,A.br(A.a([A.a1(s,30,s),A.eg(A.cv(15),A.aV(s,new A.b7(B.bu,A.aj("Apps Info",s,s,s,A.av(s,s,A.I(B.d.U(127.5),255,255,255),s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),B.a0,s,s,s,s,s)),A.a1(s,20,s),A.Kt(new A.nv(A.Py(B.a0,s,s),A.azR(new A.aqo(this),5),s),1)],t.p),B.l,B.a5,B.o),B.P,s,s,s,s,1/0),s)}}
+return A.e4(s,A.aV(s,A.br(A.a([A.a1(s,30,s),A.eg(A.cv(15),A.aV(s,new A.b7(B.bu,A.aj("Apps Info",s,s,s,A.av(s,s,A.I(B.d.U(127.5),255,255,255),s,s,s,s,s,s,s,s,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),B.a0,s,s,s,s,s)),A.a1(s,20,s),A.Kt(new A.nv(A.Py(B.a0,s,s),A.azR(new A.aqo(this),6),s),1)],t.p),B.l,B.a5,B.o),B.P,s,s,s,s,1/0),s)}}
 A.aqo.prototype={
 $2(a,b){var s=null,r=A.cv(10),q=this.a,p=A.f0(s,s,new A.bD(B.a0,t.Il),s,s,s,s,s,s,s,s,s,s,new A.bD(new A.aD(0,0,0,0),t.Ly),s,s,s,s,s,s,s,s)
 return new A.b7(B.En,A.eg(r,A.hp(new A.LE(A.a1(A.cD("assets/"+q.f[b]),45,45),A.aj(q.d[b],s,s,s,A.av(s,s,B.i,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.aj("Version "+q.e[b],s,s,s,A.av(s,s,A.I(B.d.U(127.5),255,255,255),s,s,s,s,s,s,s,s,8,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),s),new A.aqn(q,a,b),p)),s)},
