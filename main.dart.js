@@ -84365,7 +84365,7 @@ A.zf.prototype={
 Y(){return new A.E9(A.a([new A.I1(null),new A.HP(null),new A.Hr(null)],t.p),B.k)}}
 A.E9.prototype={
 a9J(a){this.ag(new A.ak8(this,a))},
-D(a){var s=this,r=null,q=A.ar(r,A.b6(A.a([A.lj(s.e[s.d],1),A.a3F(A.v(B.d.M(25.5),255,255,255),0.5,0.5)],t.p),B.j,B.m,B.l),B.H,r,r,r,r,r),p=s.d,o=A.v(B.d.M(127.5),255,255,255)
+D(a){var s=this,r=null,q=A.ar(r,A.b6(A.a([A.lj(s.e[s.d],1),A.a3F(A.v(18,255,255,255),1,1)],t.p),B.j,B.m,B.l),B.H,r,r,r,r,r),p=s.d,o=A.v(B.d.M(127.5),255,255,255)
 return A.Bm(!0,A.d9(r,q,new A.xD(B.I2,s.ga9I(),p,0,B.yU,B.H,B.i,o,r)),!0)}}
 A.ak8.prototype={
 $0(){this.a.d=this.b},
@@ -84551,22 +84551,22 @@ break
 case 4:throw A.c("Could not launch "+a)
 case 3:return A.K(null,r)}})
 return A.L($async$l5,r)},
-D(a){var s,r,q,p,o,n,m=this,l=null,k=t.p,j=A.bc(A.a([A.dF(A.bq(50),A.ar(l,A.bB("assets/logo.jpg"),l,l,40,l,l,40)),A.x(l,l,10),A.V("Techbajao",l,l,l,A.W(l,l,B.i,l,l,l,l,l,l,l,l,20,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)],k),B.j,B.Z,B.l),i=A.bq(8),h=A.bc(A.a([A.x(A.bB("assets/gp.png"),40,40),A.x(l,l,8),A.V("Google Play",l,l,l,A.W(l,l,l,l,l,l,l,l,l,l,l,16,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)],k),B.j,B.m,B.l),g=t.R,f=A.v(18,255,255,255),e=t.c
+D(a){var s,r,q,p,o,n,m=this,l=null,k=t.p,j=A.bc(A.a([A.dF(A.bq(50),A.ar(l,A.bB("assets/logo.jpg"),l,l,40,l,l,40)),A.x(l,l,10),A.V("Techbajao",l,l,l,A.W(l,l,B.i,l,l,l,l,l,l,l,l,20,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)],k),B.j,B.Z,B.l),i=A.bq(8),h=A.bc(A.a([A.x(A.bB("assets/gp.png"),40,40),A.x(l,l,8),A.V("Google Play",l,l,l,A.W(l,l,l,l,l,l,l,l,l,l,l,16,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)],k),B.j,B.m,B.l),g=t.R,f=A.v(10,255,255,255),e=t.c
 f=A.dF(i,A.x(A.ii(new A.b4(B.eA,h,l),new A.aqm(m),A.cJ(l,l,new A.aE(B.H,g),l,l,l,l,l,l,l,l,l,l,l,l,new A.aE(new A.bN(A.bq(8),new A.bh(f,1,B.v,-1)),e),l,l,l,l,l,l)),60,300))
 h=A.x(l,8,l)
 i=A.bq(8)
 s=A.bc(A.a([A.x(A.bB("assets/as.png"),40,40),A.x(l,l,8),A.V("App Store",l,l,l,A.W(l,l,l,l,l,l,l,l,l,l,l,16,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)],k),B.j,B.m,B.l)
-r=A.v(18,255,255,255)
+r=A.v(10,255,255,255)
 r=A.dF(i,A.x(A.ii(new A.b4(B.eA,s,l),new A.aqn(m),A.cJ(l,l,new A.aE(B.H,g),l,l,l,l,l,l,l,l,l,l,l,l,new A.aE(new A.bN(A.bq(8),new A.bh(r,1,B.v,-1)),e),l,l,l,l,l,l)),60,300))
 s=A.x(l,8,l)
 i=A.bq(8)
 q=A.bc(A.a([A.x(l,l,3),A.x(A.bB("assets/yt.png"),35,35),A.x(l,l,11),A.V("YouTube",l,l,l,A.W(l,l,l,l,l,l,l,l,l,l,l,16,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)],k),B.j,B.m,B.l)
-p=A.v(18,255,255,255)
+p=A.v(10,255,255,255)
 p=A.dF(i,A.x(A.ii(new A.b4(B.eA,q,l),new A.aqo(m),A.cJ(l,l,new A.aE(B.H,g),l,l,l,l,l,l,l,l,l,l,l,l,new A.aE(new A.bN(A.bq(8),new A.bh(p,1,B.v,-1)),e),l,l,l,l,l,l)),60,300))
 q=A.x(l,8,l)
 i=A.bq(8)
 o=A.bc(A.a([A.x(A.bB("assets/IG.png"),40,40),A.x(l,l,8),A.V("Instagram",l,l,l,A.W(l,l,l,l,l,l,l,l,l,l,l,16,l,l,l,l,l,!0,l,l,l,l,l,l,l,l),l,l)],k),B.j,B.m,B.l)
-n=A.v(18,255,255,255)
+n=A.v(10,255,255,255)
 return A.ar(l,A.b6(A.a([new A.jo(l),j,new A.jo(l),f,h,r,s,p,q,A.dF(i,A.x(A.ii(new A.b4(B.eA,o,l),new A.aqp(m),A.cJ(l,l,new A.aE(B.H,g),l,l,l,l,l,l,l,l,l,l,l,l,new A.aE(new A.bN(A.bq(8),new A.bh(n,1,B.v,-1)),e),l,l,l,l,l,l)),60,300)),new A.jo(l),A.ii(A.bc(A.a([A.dv(B.lx,l,l,l),A.x(l,l,8),A.V("Apps Info",l,l,l,l,l,l)],k),B.j,B.m,B.C),new A.aqq(a),A.cJ(l,l,new A.aE(B.aM,g),l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l,l)),new A.jo(l)],k),B.j,B.Z,B.l),B.H,l,l,l,l,l)}}
 A.aqm.prototype={
 $0(){this.a.l5("https://play.google.com/store/apps/dev?id=8357215197056212871&hl=en_IN&gl=US")},
@@ -84585,12 +84585,12 @@ $0(){this.a.a9(t.q0).x.jQ("/appsinfo")},
 $S:0}
 A.Hs.prototype={
 Y(){var s=t.s
-return new A.a_0(A.a(["HTML Creator","Java Compiler","Python Compiler","C Compiler","C++ Compiler","BackWalls","ToolKit","Image Rounder","QuickChart"],s),A.a(["6.2","2.2","1.6","1.4","1.0","1.8","4.1","1.0","1.1"],s),A.a(["hc.png","jc.png","pc.png","cc.png","cppc.png","bw.png","tk.png","ir.png","qc.png"],s),A.a(["/htmlcreator","/javacompiler","/pythoncompiler","/ccompiler","/cppcompiler","/backwalls","/toolkit","/imagerounder","/quickchart"],s),B.k)}}
+return new A.a_0(A.a(["HTML Creator","Java Compiler","Python Compiler","C Compiler","C++ Compiler","BackWalls","ToolKit","Image Rounder","QuickChart","AudioBook"],s),A.a(["6.2","2.2","1.6","1.4","1.0","1.8","4.1","1.0","1.1","1.5"],s),A.a(["hc.png","jc.png","pc.png","cc.png","cppc.png","bw.png","tk.png","ir.png","qc.png","ab.png"],s),A.a(["/htmlcreator","/javacompiler","/pythoncompiler","/ccompiler","/cppcompiler","/backwalls","/toolkit","/imagerounder","/quickchart","/audiobook"],s),B.k)}}
 A.a_0.prototype={
 D(a){var s=null,r=t.p
-return A.d9(s,A.ar(s,A.b6(A.a([A.x(s,15,s),A.bc(A.a([A.x(A.dv(B.lx,B.i,s,s),40,40),A.V("Apps Info",s,s,s,A.W(s,s,B.i,s,s,s,s,s,s,s,s,16,s,s,B.Y,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.x(s,s,10)],r),B.j,B.m,B.C),A.x(s,10,s),A.a3F(A.v(18,255,255,255),1,1),A.lj(A.ayK(new A.aoM(this),9,new A.oH(B.iE,s)),1)],r),B.j,B.Z,B.l),B.H,s,s,s,s,1/0),s)}}
+return A.d9(s,A.ar(s,A.b6(A.a([A.x(s,15,s),A.bc(A.a([A.x(A.dv(B.lx,B.i,s,s),40,40),A.V("Apps Info",s,s,s,A.W(s,s,B.i,s,s,s,s,s,s,s,s,16,s,s,B.Y,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.x(s,s,10)],r),B.j,B.m,B.C),A.x(s,10,s),A.a3F(A.v(18,255,255,255),1,1),A.lj(A.ayK(new A.aoM(this),10,new A.oH(B.iE,s)),1)],r),B.j,B.Z,B.l),B.H,s,s,s,s,1/0),s)}}
 A.aoM.prototype={
-$2(a,b){var s=null,r=b===8?new A.as(10,10,10,10):new A.as(10,10,10,0),q=A.bq(10),p=A.v(10,255,255,255),o=this.a,n=A.bq(10),m=A.v(10,255,255,255),l=t.p
+$2(a,b){var s=null,r=b===9?new A.as(10,10,10,10):new A.as(10,10,10,0),q=A.bq(10),p=A.v(10,255,255,255),o=this.a,n=A.bq(10),m=A.v(10,255,255,255),l=t.p
 return new A.b4(r,A.iq(B.a4,!0,s,A.a84(!1,!0,new A.b4(B.bG,A.bc(A.a([A.x(A.bB("assets/"+o.f[b]),45,45),A.x(s,s,8),A.b6(A.a([A.V(o.d[b],s,s,s,A.W(s,s,B.i,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.x(s,5,s),A.V("Version "+o.e[b],s,s,s,A.W(s,s,A.v(B.d.M(127.5),255,255,255),s,s,s,s,s,s,s,s,8,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s)],l),B.ew,B.m,B.l)],l),B.j,B.m,B.l),s),new A.bN(n,new A.bh(m,1,B.v,-1)),!0,s,s,s,s,s,s,s,s,s,new A.aoL(o,a,b),s,s,s,s,s,s,s),B.K,B.H,0,s,s,new A.bN(q,new A.bh(p,1,B.v,-1)),s,s,B.c5),s)},
 $S:536}
 A.aoL.prototype={
