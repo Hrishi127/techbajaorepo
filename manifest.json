@@ -1,11 +1,11 @@
 {
-    "name": "techbajao",
-    "short_name": "techbajao",
+    "name": "anvaysoft",
+    "short_name": "anvaysoft",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Checkout Android & iOS apps from Techbajao.",
+    "description": "Checkout Android and iOS apps by Anvaysoft",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
